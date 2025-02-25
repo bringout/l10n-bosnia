@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Account Chart Template -->
+
+
+ <record id="l10n_ba_fbih_chart_template" model="account.chart.template">
+        <field name="name">Bosna i Hercegovina - Kontni plan FBiH</field>
+
+<!--
+        1301
+        <field name="property_stock_account_input_categ_id" ref="stock_in"/>
+
+        1302
+        <field name="property_stock_account_output_categ_id" ref="stock_out"/>
+-->
+
+        <field name="property_stock_valuation_account_id" ref="bs_fbih_130"/>
+
+        <!-- Troškovi nabavke se kod ulazne fakture ne obračunavaju kao u anglosaxon, obavezno ide na 132 magacin -->
+        <field name="property_account_expense_categ_id" ref="bs_fbih_132"/>
+
+        <!-- Sales of merchandise to domestic customers -->
+        <field name="property_account_income_categ_id" ref="bs_fbih_601"/>
+
+        <!-- Trade receivables - domestic third party -->
+        <field name="property_account_receivable_id" ref="bs_fbih_211"/>
+
+        <field name="default_pos_receivable_account_id" ref="bs_fbih_205"/>
+
+        <field name="account_journal_early_pay_discount_loss_account_id" ref="bs_fbih_579"/>
+        <field name="account_journal_early_pay_discount_gain_account_id" ref="bs_fbih_662"/>
+        
+        
+        <!-- Trade payables - domestic -->
+        <field name="property_account_payable_id" ref="bs_fbih_432"/>
+
+        <!-- VAT in incoming invoices - general tax rate (except advances paid) -->
+        <field name="property_tax_receivable_account_id" ref="bs_fbih_270"/>
+        
+        <!-- Liabilities for VAT in outgoing invoices - general tax rate (except advances received)-->
+        <field name="property_tax_payable_account_id" ref="bs_fbih_470"/>
+
+
+        <!-- FX losses -->
+        <field name="expense_currency_exchange_account_id" ref="bs_fbih_563"/>
+
+        <!-- FX Gains -->
+        <field name="income_currency_exchange_account_id" ref="bs_fbih_663"/>
+  
+        <!-- Cash difference loss -->
+        <field name="default_cash_difference_expense_account_id" ref="bs_fbih_579" />
+        <!-- Cash difference gain -->
+        <field name="default_cash_difference_income_account_id" ref="bs_fbih_685" />
+
+
+
+        <field name="currency_id" ref="base.BAM"/>
+        <field name="country_id" ref="base.ba"/>
+
+    </record>
+
+</odoo>

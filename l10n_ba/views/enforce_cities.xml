@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+
+<!--
+    <field name="name">res.partner.form.inherit.l10n_ph_bir</field>
+    <field name="model">res.partner</field>
+    <field name="inherit_id" ref="base.view_partner_form"/>
+    <field name="arch" type="xml">
+        <xpath expr="//field[@name='vat']" position="after">
+            <field name="branch_code"/>
+            <field name="first_name" attrs="{'invisible': [('is_company','=', True)]}"/>
+            <field name="middle_name" attrs="{'invisible': [('is_company','=', True)]}"/>
+            <field name="last_name" attrs="{'invisible': [('is_company','=', True)]}"/>
+        </xpath>
+    </field>
+-->
+
+<record id="view_partner_form_inherit_enforce_cities" model="ir.ui.view">
+    <field name="name">res.partner.form.private.inherit.enforcecities</field>
+    <field name="model">res.partner</field>
+    <field name="inherit_id" ref="base.res_partner_view_form_private"/>
+    <field name="arch" type="xml">
+        <xpath expr="//field[@name='street2']" position="after">
+            <field name="city_id" placeholder="Odaberi grad" class="o_address_city"/>
+        </xpath>
+        <field name="city" position="attributes">
+            <attribute name="invisible">1</attribute>
+        </field>
+    </field>
+</record>
+
+</odoo>

@@ -1,0 +1,34 @@
+# To enable auto-completion and validation for this file in VSCode, install the RedHat YAML extension
+# https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
+
+# yaml-language-server: $schema=https://raw.githubusercontent.com/dbos-inc/dbos-transact-py/main/dbos/dbos-config.schema.json
+
+name: odoo-ba-edi-srv
+language: python
+runtimeConfig:
+  start:
+    - "fastapi run odoo_ba_edi_srv/main.py"
+database:
+  hostname: neki.postgresql.server.out.ba
+  port: 5432
+  username: nekiuser
+  password: ${PGPASSWORD}
+  migrate:
+    - alembic upgrade head
+telemetry:
+  logs:
+    logLevel: INFO
+
+application:
+  pin: "000000"
+  api_key: "0123456789012"
+  fiskalni:
+    timedelta:
+      days: 0
+      hours: 2
+      minutes: 5
+    iosa: "1234567890123456"
+    serial: "000200"
+    operater: "1"
+    operater_password: "1"
+

@@ -1,0 +1,221 @@
+id,country_id/id,name,zipcode,state_id/id,code
+city_ba_ze,base.ba,Zenica,72000,l10n_ba.state_ba_k_ze,103
+city_ba_tz,base.ba,Tuzla,75000,l10n_ba.state_ba_k_tz,094
+city_ba_sa,base.ba,Sarajevo Centar,71000,l10n_ba.state_ba_k_sa,077
+city_ba_78255,base.ba,Aleksandrovac,78255,l10n_ba.state_ba_er
+city_ba_72286,base.ba,Babanovac,72286,l10n_ba.state_ba_ef
+city_ba_75290,base.ba,Banovići,75290,l10n_ba.state_ba_k_tz,001
+city_ba_78000,base.ba,Banja Luka,78000,l10n_ba.state_ba_er
+city_ba_72233,base.ba,Begov Han,72233,l10n_ba.state_ba_ef
+city_ba_77000,base.ba,Bihać,77000,l10n_ba.state_ba_ef
+city_ba_76204,base.ba,Bijela,76204,l10n_ba.state_ba_ef
+city_ba_76300,base.ba,Bijeljina,76300,l10n_ba.state_ba_er
+city_ba_72256,base.ba,Bila,72256,l10n_ba.state_ba_ef
+city_ba_89230,base.ba,Bileća,89230,l10n_ba.state_ba_er
+city_ba_72248,base.ba,Bilješevo,72248,l10n_ba.state_ba_ef
+city_ba_88407,base.ba,Bjelimići,88407,l10n_ba.state_ba_ef
+city_ba_88201,base.ba,Blagaj,88201,l10n_ba.state_ba_ef
+city_ba_71215,base.ba,Blažuj,71215,l10n_ba.state_ba_ef
+city_ba_88405,base.ba,Boračko Jezero,88405,l10n_ba.state_ba_ef
+city_ba_77240,base.ba,Bosanska Krupa,77240,l10n_ba.state_ba_ef
+city_ba_77250,base.ba,Bosanski Petrovac,77250,l10n_ba.state_ba_ef
+city_ba_80270,base.ba,Bosansko Grahovo,80270,l10n_ba.state_ba_ef
+city_ba_75420,base.ba,Bratunac,75420,l10n_ba.state_ba_er
+city_ba_76100,base.ba,Brčko,76100,l10n_ba.state_ba_bd
+city_ba_71370,base.ba,Breza,71370,l10n_ba.state_ba_k_ze,016
+city_ba_70230,base.ba,Bugojno,70230,l10n_ba.state_ba_ef,017
+city_ba_88202,base.ba,Buna,88202,l10n_ba.state_ba_ef
+city_ba_72260,base.ba,Busovača,72260,l10n_ba.state_ba_k_sb,018
+city_ba_88409,base.ba,Buturović Polje,88409,l10n_ba.state_ba_ef
+city_ba_77245,base.ba,Bužim,77245,l10n_ba.state_ba_ef
+city_ba_77220,base.ba,Cazin,77220,l10n_ba.state_ba_ef
+city_ba_73280,base.ba,Čajniče,73280,l10n_ba.state_ba_er
+city_ba_88300,base.ba,Čapljina,88300,l10n_ba.state_ba_ef
+city_ba_75246,base.ba,Čelić,75246,l10n_ba.state_ba_ef
+city_ba_78240,base.ba,Čelinac,78240,l10n_ba.state_ba_er
+city_ba_88260,base.ba,Čitluk,88260,l10n_ba.state_ba_ef
+city_ba_77226,base.ba,Ćoralići,77226,l10n_ba.state_ba_ef
+city_ba_74400,base.ba,Derventa,74400,l10n_ba.state_ba_er
+city_ba_74101,base.ba,Doboj,74101,l10n_ba.state_ba_er
+city_ba_72278,base.ba,Dolac na Lašvi,72278,l10n_ba.state_ba_ef
+city_ba_88446,base.ba,Doljani,88446,l10n_ba.state_ba_ef
+city_ba_76233,base.ba,Domaljevac,76233,l10n_ba.state_ba_ef
+city_ba_76231,base.ba,Domaljevac-Granični,76231,l10n_ba.state_ba_ef
+city_ba_88305,base.ba,Domanovići,88305,l10n_ba.state_ba_ef
+city_ba_76274,base.ba,Donja Mahala,76274,l10n_ba.state_ba_ef
+city_ba_76257,base.ba,Donja Međiđa,76257,l10n_ba.state_ba_ef
+city_ba_71305,base.ba,Donje Moštre,71305,l10n_ba.state_ba_ef
+city_ba_70220,base.ba,Donji Vakuf,70220,l10n_ba.state_ba_ef
+city_ba_88215,base.ba,Drežnica,88215,l10n_ba.state_ba_ef
+city_ba_79290,base.ba,Drinić,79290,l10n_ba.state_ba_er
+city_ba_80230,base.ba,Glamoč,80230,l10n_ba.state_ba_ef
+city_ba_88406,base.ba,Glavatičevo,88406,l10n_ba.state_ba_ef
+city_ba_73101,base.ba,Goražde,73101,l10n_ba.state_ba_k_bp
+city_ba_75208,base.ba,Gornja Tuzla,75208,l10n_ba.state_ba_k_tz
+city_ba_73302,base.ba,Foča,73302,l10n_ba.state_ba_er
+city_ba_80260,base.ba,Drvar,80260,l10n_ba.state_ba_ef
+city_ba_75272,base.ba,Đurđevik,75272,l10n_ba.state_ba_ef
+city_ba_75410,base.ba,Drinjača (Zvornik),75410,l10n_ba.state_ba_er
+city_ba_71270,base.ba,Fojnica,71270,l10n_ba.state_ba_ef,030
+city_ba_89240,base.ba,Gacko,89240,l10n_ba.state_ba_er
+city_ba_76207,base.ba,Gornji Rahić,76207,l10n_ba.state_ba_ef
+city_ba_70240,base.ba,Gornji Vakuf,70240,l10n_ba.state_ba_ef
+city_ba_75320,base.ba,Gračanica,75320,l10n_ba.state_ba_k_tz,035
+city_ba_76250,base.ba,Gradačac,76250,l10n_ba.state_ba_ef
+city_ba_88340,base.ba,Grude,88340,l10n_ba.state_ba_ef
+city_ba_72277,base.ba,Guča Gora,72277,l10n_ba.state_ba_ef
+city_ba_71240,base.ba,Hadžići,71240,l10n_ba.state_ba_ef
+city_ba_72245,base.ba,Haljinići,72245,l10n_ba.state_ba_ef
+city_ba_72281,base.ba,Han Bila,72281,l10n_ba.state_ba_ef
+city_ba_71360,base.ba,Han Pijesak,71360,l10n_ba.state_ba_er
+city_ba_75216,base.ba,Husino,75216,l10n_ba.state_ba_ef
+city_ba_88394,base.ba,Hutovo,88394,l10n_ba.state_ba_ef
+city_ba_71210,base.ba,Ilidža,71210,l10n_ba.state_ba_ef
+city_ba_71380,base.ba,Ilijaš,71380,l10n_ba.state_ba_ef,040
+city_ba_71123,base.ba,Istočno Sarajevo,71123,l10n_ba.state_ba_er
+city_ba_77208,base.ba,Izačić,77208,l10n_ba.state_ba_ef
+city_ba_88420,base.ba,Jablanica,88420,l10n_ba.state_ba_ef
+city_ba_70101,base.ba,Jajce,70101,l10n_ba.state_ba_ef,042
+city_ba_76316,base.ba,Janja,76316,l10n_ba.state_ba_er
+city_ba_72215,base.ba,Janjići,72215,l10n_ba.state_ba_k_ze
+city_ba_74264,base.ba,Jelah,74264,l10n_ba.state_ba_ef
+city_ba_70206,base.ba,Jezero,70206,l10n_ba.state_ba_er
+city_ba_72264,base.ba,Kaćuni,72264,l10n_ba.state_ba_ef
+city_ba_72240,base.ba,Kakanj,72240,l10n_ba.state_ba_k_ze,043
+city_ba_75260,base.ba,Kalesija,75260,l10n_ba.state_ba_k_tz
+city_ba_71230,base.ba,Kalinovik,71230,l10n_ba.state_ba_er
+city_ba_70235,base.ba,Karadže,70235,l10n_ba.state_ba_ef
+city_ba_72284,base.ba,Karaula,72284,l10n_ba.state_ba_ef
+city_ba_71213,base.ba,Kasindo,71213,l10n_ba.state_ba_er
+city_ba_71250,base.ba,Kiseljak,71250,l10n_ba.state_ba_k_sb
+city_ba_75211,base.ba,Kiseljak kod Tuzle,75211,l10n_ba.state_ba_k_tz
+city_ba_75280,base.ba,Kladanj,75280,l10n_ba.state_ba_k_tz
+city_ba_74207,base.ba,Klokotnica,74207,l10n_ba.state_ba_ef
+city_ba_79280,base.ba,Ključ,79280,l10n_ba.state_ba_k_usk
+city_ba_78230,base.ba,Kneževo,78230,l10n_ba.state_ba_er
+city_ba_71356,base.ba,Knežina,71356,l10n_ba.state_ba_er
+city_ba_88400,base.ba,Konjic,88400,l10n_ba.state_ba_k_hn
+city_ba_78220,base.ba,Kotor Varoš,78220,l10n_ba.state_ba_er
+city_ba_74215,base.ba,Kotorsko,74215,l10n_ba.state_ba_er
+city_ba_72226,base.ba,Kovači (Zavidovići),72226,l10n_ba.state_ba_k_ze
+city_ba_79202,base.ba,Kozarac,79202,l10n_ba.state_ba_er
+city_ba_79240,base.ba,Kozarska Dubica,79240,l10n_ba.state_ba_er
+city_ba_75413,base.ba,Kozluk,75413,l10n_ba.state_ba_er
+city_ba_72244,base.ba,Kraljeva Sutjeska,72244,l10n_ba.state_ba_ef
+city_ba_71260,base.ba,Kreševo,71260,l10n_ba.state_ba_ef
+city_ba_78206,base.ba,Krupa na Vrbasu,78206,l10n_ba.state_ba_er
+city_ba_77206,base.ba,Kulen Vakuf,77206,l10n_ba.state_ba_k_usk
+city_ba_80320,base.ba,Kupres,80320,l10n_ba.state_ba_ef
+city_ba_78250,base.ba,Laktaši,78250,l10n_ba.state_ba_er
+city_ba_71254,base.ba,Lepenica,71254,l10n_ba.state_ba_ef
+city_ba_75213,base.ba,Lipnica,75213,l10n_ba.state_ba_ef
+city_ba_80101,base.ba,Livno,80101,l10n_ba.state_ba_ef
+city_ba_76278,base.ba,Lončari,76278,l10n_ba.state_ba_er
+city_ba_75240,base.ba,Lopare,75240,l10n_ba.state_ba_er
+city_ba_75300,base.ba,Lukavac,75300,l10n_ba.state_ba_k_tz
+city_ba_79206,base.ba,Ljubija,79206,l10n_ba.state_ba_er
+city_ba_88320,base.ba,Ljubuški,88320,l10n_ba.state_ba_ef
+city_ba_74250,base.ba,Maglaj,74250,l10n_ba.state_ba_k_ze,060
+city_ba_74216,base.ba,Majevac,74216,l10n_ba.state_ba_er
+city_ba_76208,base.ba,Maoča,76208,l10n_ba.state_ba_ef
+city_ba_74203,base.ba,Matuzići,74203,l10n_ba.state_ba_k_ze
+city_ba_88266,base.ba,Međugorje,88266,l10n_ba.state_ba_ef
+city_ba_72282,base.ba,Mehurići,72282,l10n_ba.state_ba_k_ze
+city_ba_75446,base.ba,Milići,75446,l10n_ba.state_ba_er
+city_ba_73313,base.ba,Miljevina,73313,l10n_ba.state_ba_er
+city_ba_74480,base.ba,Modriča,74480,l10n_ba.state_ba_er
+city_ba_71428,base.ba,Mokro,71428,l10n_ba.state_ba_er
+city_ba_88000,base.ba,Mostar,88000,l10n_ba.state_ba_ef
+city_ba_70260,base.ba,Mrkonjić Grad,70260,l10n_ba.state_ba_er
+city_ba_72212,base.ba,Nemila,72212,l10n_ba.state_ba_k_ze
+city_ba_88390,base.ba,Neum,88390,l10n_ba.state_ba_ef
+city_ba_88280,base.ba,Nevesinje,88280,l10n_ba.state_ba_er
+city_ba_71383,base.ba,Nišići,71383,l10n_ba.state_ba_ef
+city_ba_72276,base.ba,Nova Bila,72276,l10n_ba.state_ba_ef
+city_ba_75445,base.ba,Nova Kasaba,75445,l10n_ba.state_ba_er
+city_ba_79220,base.ba,Novi Grad (Bosanski Novi),79220,l10n_ba.state_ba_er
+city_ba_74254,base.ba,Novi Šeher,74254,l10n_ba.state_ba_ef
+city_ba_72290,base.ba,Novi Travnik,72290,l10n_ba.state_ba_ef,091
+city_ba_73110,base.ba,Novo Goražde,73110,l10n_ba.state_ba_er
+city_ba_76290,base.ba,Odžak,76290,l10n_ba.state_ba_ef
+city_ba_75323,base.ba,Orahovica Donja,75323,l10n_ba.state_ba_ef
+city_ba_76270,base.ba,Orašje,76270,l10n_ba.state_ba_ef
+city_ba_75406,base.ba,Osmaci,75406,l10n_ba.state_ba_er
+city_ba_88423,base.ba,Ostrožac,88423,l10n_ba.state_ba_ef
+city_ba_71420,base.ba,Pale,71420,l10n_ba.state_ba_er
+city_ba_71243,base.ba,Pazarić,71243,l10n_ba.state_ba_ef
+city_ba_76256,base.ba,Pelagićevo,76256,l10n_ba.state_ba_er
+city_ba_72252,base.ba,Počulica,72252,l10n_ba.state_ba_ef
+city_ba_71387,base.ba,Podlugovi,71387,l10n_ba.state_ba_ef
+city_ba_88403,base.ba,Podorašac,88403,l10n_ba.state_ba_ef
+city_ba_88206,base.ba,Podvelež,88206,l10n_ba.state_ba_ef
+city_ba_75303,base.ba,Poljice,75303,l10n_ba.state_ba_ef
+city_ba_88240,base.ba,Posušje,88240,l10n_ba.state_ba_ef
+city_ba_75433,base.ba,Potočari,75433,l10n_ba.state_ba_er
+city_ba_73290,base.ba,Prača,73290,l10n_ba.state_ba_ef
+city_ba_79102,base.ba,Prijedor,79102,l10n_ba.state_ba_er
+city_ba_78430,base.ba,Prnjavor,78430,l10n_ba.state_ba_er
+city_ba_74214,base.ba,Prnjavor Mali,74214,l10n_ba.state_ba_er
+city_ba_88440,base.ba,Prozor,88440,l10n_ba.state_ba_ef
+city_ba_76292,base.ba,Prud,76292,l10n_ba.state_ba_ef
+city_ba_70223,base.ba,Prusac,70223,l10n_ba.state_ba_ef
+city_ba_75305,base.ba,Puračić,75305,l10n_ba.state_ba_ef
+city_ba_88245,base.ba,Rakitno,88245,l10n_ba.state_ba_ef
+city_ba_71217,base.ba,Rakovica,71217,l10n_ba.state_ba_ef
+city_ba_88370,base.ba,Ravno,88370,l10n_ba.state_ba_ef
+city_ba_73220,base.ba,Rogatica,73220,l10n_ba.state_ba_er
+city_ba_73260,base.ba,Rudo,73260,l10n_ba.state_ba_er
+city_ba_75411,base.ba,Sapna,75411,l10n_ba.state_ba_ef
+city_ba_71321,base.ba,Semizovac,71321,l10n_ba.state_ba_k_sa
+city_ba_75207,base.ba,Simin Han,75207,l10n_ba.state_ba_ef
+city_ba_75436,base.ba,Skelani,75436,l10n_ba.state_ba_er
+city_ba_71350,base.ba,Sokolac,71350,l10n_ba.state_ba_er
+city_ba_75430,base.ba,Srebrenica,75430,l10n_ba.state_ba_er
+city_ba_75350,base.ba,Srebrenik,75350,l10n_ba.state_ba_k_tz
+city_ba_71385,base.ba,Srednje (FBiH),71385,l10n_ba.state_ba_k_sa
+city_ba_72251,base.ba,Stari Vitez,72251,l10n_ba.state_ba_k_sb,100
+city_ba_75324,base.ba,Stjepan Polje,75324,l10n_ba.state_ba_ef
+city_ba_88360,base.ba,Stolac,88360,l10n_ba.state_ba_ef
+city_ba_72209,base.ba,Stranjani,72209,l10n_ba.state_ba_k_ze
+city_ba_75283,base.ba,Stupari,75283,l10n_ba.state_ba_k_tz
+city_ba_76230,base.ba,Šamac,76230,l10n_ba.state_ba_er
+city_ba_75450,base.ba,Šekovići,75450,l10n_ba.state_ba_er
+city_ba_75275,base.ba,Šerići,75275,l10n_ba.state_ba_ef
+city_ba_70270,base.ba,Šipovo,70270,l10n_ba.state_ba_er
+city_ba_88220,base.ba,Široki Brijeg,88220,l10n_ba.state_ba_ef
+city_ba_75356,base.ba,Špionica,75356,l10n_ba.state_ba_ef
+city_ba_80249,base.ba,Šujica,80249,l10n_ba.state_ba_k_ze
+city_ba_71244,base.ba,Tarčin,71244,l10n_ba.state_ba_k_sa
+city_ba_75414,base.ba,Teočak,75414,l10n_ba.state_ba_ef
+city_ba_74270,base.ba,Teslić,74270,l10n_ba.state_ba_er
+city_ba_74260,base.ba,Tešanj,74260,l10n_ba.state_ba_k_ze,090
+city_ba_74266,base.ba,Tešanjka,74266,l10n_ba.state_ba_k_ze
+city_ba_73311,base.ba,Tjentište,73311,l10n_ba.state_ba_er
+city_ba_80240,base.ba,Tomislavgrad,80240,l10n_ba.state_ba_ef
+city_ba_72213,base.ba,Topčić Polje,72213,l10n_ba.state_ba_k_ze
+city_ba_72270,base.ba,Travnik,72270,l10n_ba.state_ba_k_sb
+city_ba_89101,base.ba,Trebinje,89101,l10n_ba.state_ba_er
+city_ba_72283,base.ba,Turbe,72283,l10n_ba.state_ba_ef
+city_ba_76330,base.ba,Ugljevik,76330,l10n_ba.state_ba_er
+city_ba_70280,base.ba,Uskoplje,70280,l10n_ba.state_ba_ef
+city_ba_73250,base.ba,Ustikolina,73250,l10n_ba.state_ba_ef
+city_ba_88444,base.ba,Uzdol,88444,l10n_ba.state_ba_ef
+city_ba_71330,base.ba,Vareš,71330,l10n_ba.state_ba_k_ze,096
+city_ba_77230,base.ba,Velika Kladuša,77230,l10n_ba.state_ba_k_usk
+city_ba_70202,base.ba,Vinac,70202,l10n_ba.state_ba_ef
+city_ba_71300,base.ba,Visoko,71300,l10n_ba.state_ba_k_ze,098
+city_ba_73240,base.ba,Višegrad,73240,l10n_ba.state_ba_er
+city_ba_72250,base.ba,Vitez,72250,l10n_ba.state_ba_k_sb,100
+city_ba_73205,base.ba,Vitkovići,73205,l10n_ba.state_ba_k_bp
+city_ba_75440,base.ba,Vlasenica,75440,l10n_ba.state_ba_er
+city_ba_71320,base.ba,Vogošća,71320,l10n_ba.state_ba_k_sa
+city_ba_72227,base.ba,Vozuća,72227,l10n_ba.state_ba_k_ze
+city_ba_88113,base.ba,Vrapčići,88113,l10n_ba.state_ba_k_hn
+city_ba_74470,base.ba,Vukosavlje,74470,l10n_ba.state_ba_er
+city_ba_76333,base.ba,Zabrđe,76333,l10n_ba.state_ba_er
+city_ba_78214,base.ba,Zalužani,78214,l10n_ba.state_ba_er
+city_ba_72220,base.ba,Zavidovići,72220,l10n_ba.state_ba_k_ze,102
+city_ba_75400,base.ba,Zvornik,75400,l10n_ba.state_ba_er
+city_ba_72236,base.ba,Željezno Polje,72236,l10n_ba.state_ba_k_ze
+city_ba_72230,base.ba,Žepče,72230,l10n_ba.state_ba_k_ze,105
+city_ba_75270,base.ba,Živinice,75270,l10n_ba.state_ba_k_tz,106

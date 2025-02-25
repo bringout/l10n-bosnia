@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <data>
+        <record id="base.ba" model="res.country">
+            <!--
+            <field name="name">Bosnia and Herzegovina</field>
+            <field name="code">ba</field>
+            <field name="currency_id" ref="base.BAM" />
+            <field eval="387" name="phone_code" />
+            -->
+            <field name="enforce_cities" eval="True" />
+        </record>
+    </data>
+</odoo>

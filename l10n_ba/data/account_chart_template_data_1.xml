@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data>
+   
+   <record id="l10n_ba_fbih_chart_template" model="account.chart.template">
+        <field name="name">BiH - Kontni plan FBiH</field>
+        <field name="code_digits">7</field>
+        <field name="use_anglo_saxon" eval="False"/>
+        <field name="bank_account_code_prefix">200</field>
+        <field name="cash_account_code_prefix">205</field>
+        <field name="transfer_account_code_prefix">2009</field>
+
+        <field name="currency_id" ref="base.BAM"/>
+        <field name="country_id" ref="base.ba"/>
+    </record>
+
+   </data>
+</odoo>

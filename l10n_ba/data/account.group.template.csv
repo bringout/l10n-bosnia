@@ -1,0 +1,83 @@
+id,code_prefix_start,name,chart_template_id/id
+bs_fbih_group_0,0,STALNA SREDSTVA I DUGOROČNI PLASMANI,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_01,01,Nematerijalna sredstva,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_02,02,"Nekretnine, postrojenja i oprema",l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_03,03,Investicijske nekretnine,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_04,04,Biološka sredstva,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_05,05,Ostala (specifična) stalna materijalna sredstva,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_06,06,Dugoročni finansijski plasmani,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_07,07,Druga dugoročna potraživanja,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_1,1,ZALIHE I SREDSTVA NAMIJENJENA PRODAJI,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_11,11,"Proizvodnja u toku, poluproizvodi i nedovršene usluge",l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_12,12,Gotovi proizvodi,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_13,13,Roba,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_14,14,Stalna sredstva i sredstva obustavljenog poslovanja namijenjena prodaji,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_15,15,Dati avansi,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_2,2,"GOTOVINA, KRATKOROČNA POTRAŽIVANJA I KRATKOROČNI PLASMANI",l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_20,20,Gotovina i gotovinski ekvivalenti,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_21,21,Potraživanja od prodaje,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_22,22,Potraživanja iz specifičnih poslova,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_23,23,Druga kratkoročna potraživanja,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_24,24,Kratkoročni finansijski plasmani,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_27,27,"Potraživanja za PDV, odbitni ulazni porez",l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_28,28,Aktivna vremenska razgraničenja,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_29,29,Gubitak iznad visine kapitala,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_3,3,KAPITAL,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_30,30,Osnovni kapital,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_31,31,Upisani neuplaćeni kapital,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_32,32,Rezerve,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_33,33,Revalorizacione rezerve i nerealizovani dobici i gubici,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_34,34,Neraspoređena dobit,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_35,35,Gubitak do visine kapitala,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_36,36,Otkupljene vlastite dionice i udjeli,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_4,4,"OBAVEZE, REZERVISANJA I RAZGRANIČENJA",l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_40,40,Dugoročna rezervisanja i odložene porezne obaveze,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_41,41,Dugoročne obaveze,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_42,42,Kratkoročne finansijske obaveze,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_43,43,Obaveze iz poslovanja,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_44,44,Obaveze iz specifičnih poslova,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_45,45,"Obaveze po osnovu plaća, naknada i ostalih primanja zaposlenih",l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_46,46,Druge obaveze,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_47,47,Obaveze za PDV,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_48,48,"Obaveze za ostale poreze, doprinose i druge dažbine",l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_49,49,Pasivna vremenska razgraničenja,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_5,5,RASHODI,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_50,50,Nabavna vrijednost prodate robe,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_51,51,Materijalni troškovi,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_52,52,Troškovi plaća i ostalih primanja zaposlenih i drugih fizičkih lica,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_53,53,Troškovi proizvodnih usluga,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_54,54,Amortizacija i troškovi rezervisanja,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_55,55,Nematerijalni troškovi,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_56,56,Finansijski rashodi,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_57,57,Ostali rashodi i gubici,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_58,58,Rashodi/gubici iz osnova umanjenja vrijednosti sredstava,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_59,59,"Efekti promjena računovodstvenih politika i ispravki grešaka iz ranijih godina, promjena vrijednosti zaliha učinaka i prenos rashoda",l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_6,6,PRIHODI,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_60,60,Prihodi od prodaje robe,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_61,61,Prihodi od prodaje učinaka,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_62,62,Prihodi od aktiviranja ili potrošnje robe i učinaka,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_64,64,Promjena vrijednosti specifičnih stalnih sredstava,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_65,65,Ostali poslovni prihodi,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_66,66,Finansijski prihodi,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_67,67,Ostali prihodi i dobici,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_68,68,Prihodi/dobici iz osnova usklađivanja vrijednosti sredstava,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_69,69,Efekti promjena računovodstvenih politika i ispravki grešaka iz ranijih godina i prenos prihoda,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_7,7,OTVARANJE I ZAKLJUČAK KONTA STANJA I USPJEHA,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_70,70,Otvaranje glavne knjige,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_71,71,Zaključak konta uspjeha,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_72,72,Račun dobiti i gubitka,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_73,73,Zaključak konta stanja,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_8,8,VANBILANSNA EVIDENCIJA,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_88,88,Vanbilansna aktiva,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_89,89,Vanbilansna pasiva,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_9,9,OBRAČUN TROŠKOVA I UČINAKA,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_90,90,Konta odnosa sa finansijskim računovodstvom,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_91,91,Materijal i roba,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_92,92,"Konta mjesta troškova nabavke, tehničke uprave i pomoćnih djelatnosti",l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_93,93,Konta glavnih proizvodnih mjesta troškova,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_94,94,"Konta mjesta troškova uprave, prodaje i sličnih aktivnosti",l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_95,95,Nosioci troškova,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_96,96,Gotovi proizvodi,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_97,97,Slobodna grupa,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_98,98,Rashodi i prihodi,l10n_ba.l10n_ba_fbih_chart_template
+bs_fbih_group_99,99,"Konta dobitka, gubitka i zaključka",l10n_ba.l10n_ba_fbih_chart_template

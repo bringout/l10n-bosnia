@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+  <data>
+    <function model="account.chart.template" name="try_loading">
+        <value eval="[ref('l10n_ba.l10n_ba_fbih_chart_template')]"/>
+    </function>
+  </data>
+
+</odoo>
